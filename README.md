@@ -20,6 +20,8 @@ Tropico 4  is  were  you  as  El Presidente trying  to return the  El Presidente
 # Game Play Summary
 ## Playability
 ### Single/Multiplayer
+Multiplayer- allow you to play online with other players .
+Single- Players  play  campaign mode  that  has  20 mission  and over  10 maps  . Where  the  player  gather  resources  from oil,power and etc.  The  player  gets  to chose  between the faction ( Communists ,Intellectuals ,Religious,Militarists  
 ### Controls
 
 # Bugs
