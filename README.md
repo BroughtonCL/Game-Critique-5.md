@@ -1,19 +1,19 @@
 # Game-Critique-5.md
 # Information
 ## Game Title
-Full title of the game.
+Tropico 4
 ## Game Type
-The genre and play style of the game
+Strategy
 ## Platform
-What systems do they play on besides the PC master race?
+Xbox 360
 ## Game Rating
 metacritic score 
 ## Publisher
-who released this pile of code
+Kalypso Media
 ## Developer
-Who made this pile of code
+Haemimont Games 
 ## Publishing Date
-When did they make it?
+October 21, 2011
 # Synopsis
 Game premise or short one to two sentence overview
 
