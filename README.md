@@ -7,7 +7,7 @@ Strategy
 ## Platform
 Xbox 360
 ## Game Rating
-metacritic score 
+metacritic score 77%
 ## Publisher
 Kalypso Media
 ## Developer
@@ -15,7 +15,7 @@ Haemimont Games
 ## Publishing Date
 October 21, 2011
 # Synopsis
-Game premise or short one to two sentence overview
+Tropico 4  is  were  you  as  El Presidente trying  to return the  El Presidente's  island  back to its  fromer  glory. Buliding  farms, city and  etc , and  regain conrol over the island  . 
 
 # Game Play Summary
 ## Playability
