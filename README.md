@@ -15,7 +15,7 @@ Haemimont Games
 ## Publishing Date
 October 21, 2011
 # Synopsis
-Tropico 4  is  were  you  as  El Presidente trying  to return the  El Presidente's  island  back to its  fromer  glory. Buliding  farms, city and  etc , and  regain conrol over the island  . 
+Tropico 4  is  were  you  as  El Presidente trying  to return the  El Presidente's  island  back to its  fromer  glory. Buliding  farms, city and  etc , and  regain control over the island  . 
 
 # Game Play Summary
 
